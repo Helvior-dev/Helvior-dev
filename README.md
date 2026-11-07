@@ -6,12 +6,12 @@
   <p>I build Python tools for media workflows and the command line.</p>
 </div>
 
-### // SELECT A MODULE TO CONTINUE
+## Website
 
-<a href="https://logovo-dushnil.vercel.app/"><img src="assets/card-site.svg" alt="Logovo Dushnil - personal hub for code, apps, music and more" width="100%"></a>
+[Logovo Dushnil](https://logovo-dushnil.vercel.app/) - my personal hub for code, apps, music, and more.
 
-<a href="https://github.com/Helvior-dev/CLI-Media-Downloader"><img src="assets/card-cli.svg" alt="CLI-Media-Downloader - media downloads and organization from the terminal" width="100%"></a>
+## Selected projects
 
-<a href="https://github.com/Helvior-dev/Shorts-Downloader-Bot"><img src="assets/card-bot.svg" alt="Shorts-Downloader-Bot - Telegram bot for short-form video downloads" width="100%"></a>
-
-<a href="https://github.com/Helvior-dev/Audio-Visualizer"><img src="assets/card-audio.svg" alt="Audio-Visualizer - real-time audio meters for Windows" width="100%"></a>
+- [CLI-Media-Downloader](https://github.com/Helvior-dev/CLI-Media-Downloader) - download and organize media from the terminal.
+- [Shorts-Downloader-Bot](https://github.com/Helvior-dev/Shorts-Downloader-Bot) - download short-form videos through a Telegram bot.
+- [Audio-Visualizer](https://github.com/Helvior-dev/Audio-Visualizer) - real-time audio meters for Windows.
