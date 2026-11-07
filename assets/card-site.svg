@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 142" role="img" aria-labelledby="title desc">
+  <title id="title">Logovo Dushnil</title>
+  <desc id="desc">Personal hub for code, apps, music and more</desc>
+  <rect x="1" y="1" width="778" height="140" rx="5" fill="#0D1320" stroke="#3D3655" stroke-width="2"/>
+  <text x="30" y="34" fill="#D3C8FF" font-family="monospace" font-size="15" letter-spacing="1">// WEBSITE</text>
+  <text x="30" y="82" fill="#E7ECF5" font-family="Sora, Arial, sans-serif" font-size="30" font-weight="700">Logovo Dushnil</text>
+  <text x="30" y="115" fill="#8F9AB1" font-family="Sora, Arial, sans-serif" font-size="18">Code, apps, music and more</text>
+</svg>
