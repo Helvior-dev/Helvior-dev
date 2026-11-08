@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.gif" alt="Animated night scene with a ship at sea" width="100%">
+  <img src="assets/profile-banner.gif" alt="Animated night scene with a ship at sea" width="600">
 
   <h1>Hi, I'm Helvior</h1>
   <p><samp>// code, media tools &amp; automation</samp></p>
@@ -12,6 +12,6 @@
 
 ## Selected projects
 
-- [CLI-Media-Downloader](https://github.com/Helvior-dev/CLI-Media-Downloader) - download and organize media from the terminal.
+- [Logovo-Downloads](https://github.com/Helvior-dev/Logovo-Downloads) - download video and audio from multiple platforms.
 - [Shorts-Downloader-Bot](https://github.com/Helvior-dev/Shorts-Downloader-Bot) - download short-form videos through a Telegram bot.
 - [Audio-Visualizer](https://github.com/Helvior-dev/Audio-Visualizer) - real-time audio meters for Windows.
